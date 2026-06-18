@@ -1,5 +1,5 @@
 body{
-    background-color: dark nevy blue;
+    background-color: maroon;
 }
   *{  
     margin: 0;
@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-color: dark nevy blue;
+    background-color: maroon;
     padding: 10px;
 }
 
@@ -42,7 +42,7 @@ section:first-of-type{
 }
 
 div{
-    border: 1px solid dark nevy blue;
+    border: 1px solid maroon;
     padding: 20px;
     margin: 10px 0;
     border-radius: 8px;
@@ -60,7 +60,7 @@ textarea{
 
 button{
     padding: 10px 20px;
-    background-color: dark nevy blue;
+    background-color: maroon;
     color: white;
     border: none;
     cursor: pointer;
@@ -68,7 +68,7 @@ button{
 }
 
 footer{
-    background-color: dark nevy blue;
+    background-color: maroon;
     color: white;
     text-align: center;
     padding: 15px;
