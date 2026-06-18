@@ -19,12 +19,15 @@ header{
 
 nav{
     margin-top: 10px;
+    display: flex;
+    justify-content:space-evenly;
 }
 
 nav a{
     color: white;
     text-decoration: none;
-    margin-right: 15px;
+    font-size: 13px;
+    font_weight: bold;
 }
 
 section{
