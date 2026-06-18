@@ -1,5 +1,5 @@
 body{
-    background-color: purple;
+    background-color: dark nevy blue;
 }
   *{  
     margin: 0;
@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-color: purple;
+    background-color: dark nevy blue;
     padding: 10px;
 }
 
@@ -42,7 +42,7 @@ section:first-of-type{
 }
 
 div{
-    border: 1px solid purple;
+    border: 1px solid dark nevy blue;
     padding: 20px;
     margin: 10px 0;
     border-radius: 8px;
@@ -60,15 +60,15 @@ textarea{
 
 button{
     padding: 10px 20px;
-    background-color: purple;
-    color: black;
+    background-color: dark nevy blue;
+    color: white;
     border: none;
     cursor: pointer;
     border-radius: 5px;
 }
 
 footer{
-    background-color: purple;
+    background-color: dark nevy blue;
     color: white;
     text-align: center;
     padding: 15px;
