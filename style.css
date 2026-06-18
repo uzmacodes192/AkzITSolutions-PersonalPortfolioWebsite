@@ -1,5 +1,5 @@
 body{
-    background-color: maroon;
+    background-color: purple;
 }
   *{  
     margin: 0;
@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-color: maroon;
+    background-color: purple;
     padding: 10px;
 }
 
@@ -22,7 +22,7 @@ nav{
 }
 
 nav a{
-    color: black;
+    color: white;
     text-decoration: none;
     margin-right: 15px;
 }
@@ -60,7 +60,7 @@ textarea{
 
 button{
     padding: 10px 20px;
-    background-color: maroon;
+    background-color: purple;
     color: black;
     border: none;
     cursor: pointer;
@@ -68,8 +68,8 @@ button{
 }
 
 footer{
-    background-color: maroon;
-    color: black;
+    background-color: purple;
+    color: white;
     text-align: center;
     padding: 15px;
 }
