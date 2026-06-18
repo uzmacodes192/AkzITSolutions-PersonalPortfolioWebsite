@@ -1,5 +1,5 @@
 body{
-    background-color: maroon;
+    background-color: dark blue;
 }
   *{  
     margin: 0;
@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-color: maroon;
+    background-color:dark blue;
     padding: 10px;
     color: white;
 }
@@ -38,11 +38,11 @@ h2{
 section:first-of-type{
     text-align: center;
     padding: 40px 20px;
-    background-color: #f4f4f4;
+    background-color: ##1E3A8A;
 }
 
 div{
-    border: 1px solid maroon;
+    border: 1px solid dark blue;
     padding: 20px;
     margin: 10px 0;
     border-radius: 8px;
@@ -60,7 +60,7 @@ textarea{
 
 button{
     padding: 10px 20px;
-    background-color: maroon;
+    background-color: dark blue;
     color: white;
     border: none;
     cursor: pointer;
@@ -68,7 +68,7 @@ button{
 }
 
 footer{
-    background-color: maroon;
+    background-color: dark blue;
     color: white;
     text-align: center;
     padding: 15px;
